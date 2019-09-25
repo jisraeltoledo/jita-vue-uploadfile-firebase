@@ -1,0 +1,25 @@
+{
+  "name": "jita-vue-uploadfile-firebase",
+  "version": "1.0.0",
+  "description": "Vue component for uploading files to firebase storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisraeltoledo/jita-vue-uploadfile-firebase.git"
+  },
+  "keywords": [
+    "vue",
+    "firebase",
+    "upload",
+    "file"
+  ],
+  "author": "j.israel.toledo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jisraeltoledo/jita-vue-uploadfile-firebase/issues"
+  },
+  "homepage": "https://github.com/jisraeltoledo/jita-vue-uploadfile-firebase#readme"
+}
